@@ -67,6 +67,7 @@ Want to shape the future of automation? Check out our [job posts](https://n8n.io
 
 ## What does n8n mean?
 
-**Short answer:** It means "nodemation" and is pronounced as n-eight-n.
+What does n8n mean?
+Short answer: It comes from “nodemation” and is pronounced “n-eight-n.”
 
-**Long answer:** "I get that question quite often (more often than I expected) so I decided it is probably best to answer it here. While looking for a good name for the project with a free domain I realized very quickly that all the good ones I could think of were already taken. So, in the end, I chose nodemation. 'node-' in the sense that it uses a Node-View and that it uses Node.js and '-mation' for 'automation' which is what the project is supposed to help with. However, I did not like how long the name was and I could not imagine writing something that long every time in the CLI. That is when I then ended up on 'n8n'." - **Jan Oberhauser, Founder and CEO, n8n.io**
+Long answer: The name started from a desire for something short, memorable, and available as a domain. The original idea was “nodemation”: “node-” because the platform uses a node-based visual editor and is built on Node.js, and “-mation” as a shorthand for “automation.” That full name felt too long for everyday use, especially in the CLI, so it was compressed into the compact and distinctive brand “n8n.”
